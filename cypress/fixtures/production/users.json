@@ -1,0 +1,13 @@
+{
+  "validUser": {
+    "email": "usuario.valido@producao.exemplo.com",
+    "password": "senha_valida_producao"
+  },
+  "invalidUser": {
+    "email": "usuario_invalido@producao.exemplo.com",
+    "password": "senha_errada_producao"
+  },
+  "missingPassword": { "email": "usuario.valido@producao.exemplo.com" },
+  "missingEmail": { "password": "senha_valida_producao" },
+  "emptyBody": {}
+}
