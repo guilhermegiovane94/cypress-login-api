@@ -1,9 +1,5 @@
 # 🔐 Projeto Cypress - Validação de Login (Backend Only)
 
-[![Cypress](https://img.shields.io/badge/Cypress-13.x-77a24e?style=for-the-badge&logo=cypress)](https://www.cypress.io/)
-[![Node.js](https://img.shields.io/badge/Node.js-18+-339933?style=for-the-badge&logo=node.js)](https://nodejs.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
-[![Version](https://img.shields.io/badge/Version-1.0-blue.svg?style=for-the-badge)](VERSION)
 
 Este projeto tem o intuito de demonstrar na prática o uso da tecnologia **Cypress**, aplicando o padrão de projeto **PO (Page Object)** e consumindo massas de dados através de **arquivos JSON** (`fixtures`).
 
